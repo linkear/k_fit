@@ -1,0 +1,1 @@
+1.Yo como cliente quiero saber el tiempo de registro de la aplicación
