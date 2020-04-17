@@ -1,1 +1,15 @@
 1.Yo como administrador quiero que la aplicación sea llamativa de forma visual al cliente.
+2.Yo como administrador quiero crear perfiles de coach para organizar a los empleados.
+3.Yo como administrador de gimnasio nesito un login para entrar a ver mi perfil.
+4.Yo como administrador de gimnasio quiero agendar las classes para que los clientes puedan visualizar en su aplicativo lo que van a realizar ahora.
+5.Yo como administrador quiero que la aplicación sea llamativa de forma visual al cliente.
+6.Yo  como administrador quiero llevar el listado  de clientes registrados en el gym y que tipo de membresía tienen.
+7.yo como administrador quiero un detalle de los cliente registrados y no  mensualmente, semanalmente, etc.
+8.yo como administrador quiero una lista detallada para saber cuantas maquinarias del mismo tipo existen.
+9.yo como administrador quiero crear niveles de jerarquía para cada socio.
+10.yo como administrador quiero saber las horas laborales de los entrenadores.
+11.yo como administrador quiero informar a mis clientes nuevas noticias o publicaciones sobre el gimnasio.
+12.yo como administrador quiero tener un apartado de comentarios para saber la opinión de mis clientes.
+13.yo como administrador quiero tener una nomina del personal que labora y clientes.
+14.yo como administrador quiero permitir que mis clientes tengan un control de salud alimentaria.
+15.Yo como administrador quiero llevar un control de los clientes regulares o no.

@@ -1,1 +1,14 @@
-1.Yo como cliente quiero saber el tiempo de registro de la aplicación
+1.Yo como cliente quiero saber el tiempo de registro de la aplicación.
+2.Yo como cliente quiero ver las clases que se van a dar ahora para preparame.
+3.Yo como Cliente quiero llevar  el registro de mis rutinas diarias  y cual debo cumplirlas.
+4.yo como cliente quiero ver todas las actividades disponibles por día.
+5.yo como cliente quiero saber las maquinas que estén o no disponibles para usarse.
+6.yo como cliente quiero ver las actividades que ofrece el establecimiento.
+7.yo como cliente quiero que me envíen un correo de confirmación de que estoy exitosamente registrado.
+8.Yo como usuario quiero saber que materiales esenciales  necesito para iniciar mis rutinas.
+9.yo como usuario quiero saber los entrenadores que estén o no disponibles.
+10.como usuario quiero saber todos los servicios que ofrece el gym.
+11.yo como usuario quiero saber la cantidad de ejercicio que debo hacer para mantener un peso adecuado.
+12.yo como usuario quiero saber la cantidad de ejercicio que debo hacer para mantener un peso adecuado.
+13.Yo como cliente quiero poder reservar citas.
+14.Yo como usuario quiero poder elegir el nombre con el que me voy a registrar.
