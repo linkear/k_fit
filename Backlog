@@ -27,3 +27,10 @@ Como usuario quiero una barra donde me pida mi fecha de nacimiento.
 Como usuario quiero una barra donde me pida mi edad.
 Como usuario quiero un botón de guardar.
 Como usuario quiero tener un fondo de pantalla de una imagen 
+
+**Como Administrador**
+Como administrador quiero saber cuantos  usuarios usan nuestra app
+Como administrador quiero dar seguridad a mis clientes al momento que utilicen nuestra app
+Como administrador quiero tener una base de datos
+Como administrador quiero un logo muy elegante
+Como administrador quiero mi aplicación este para uso de dos idiomas
