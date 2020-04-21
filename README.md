@@ -15,7 +15,7 @@ fomentar una comunidad colaborativa y
 mejorar la matriz productiva del país.
  
 
-**Mi problema y mi Objetivo a realizar
+**Mi problema y mi Objetivo a realizar**
 
  
 Mediante una aplicación fácil de usar  garantizamos 
