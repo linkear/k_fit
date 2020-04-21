@@ -1,4 +1,4 @@
-**Con el finde de tene un cuerpo y mente sana**
+**Con el finde de tener un cuerpo y una mente sana**
 
 
 **Vision**
